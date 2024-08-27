@@ -18,6 +18,8 @@ rev-basic-0과 크게 다를게 없는 코드이다. sub_140001000함수를 바�
 
 <img width="565" alt="스크린샷 2024-08-27 오후 8 01 51" src="https://github.com/user-attachments/assets/5ab28668-a848-40d0-a4b2-a50761455970">
 
+## 결론
+
 <img width="805" alt="스크린샷 2024-08-27 오후 8 02 05" src="https://github.com/user-attachments/assets/4f6b9b05-885c-4e3a-b62d-647b8bbbe856">
 
 <img width="797" alt="스크린샷 2024-08-27 오후 8 02 16" src="https://github.com/user-attachments/assets/27234537-477d-4b94-ae99-070cc6fcf7fd">
